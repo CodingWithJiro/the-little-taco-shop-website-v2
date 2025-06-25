@@ -21,9 +21,10 @@
 
 ## ℹ️ Multi-Page Taco Shop Demo Website
 
-| _Mobile Preview (375x812)_                          | _Desktop Preview (1440x960)_                           |
-| --------------------------------------------------- | ------------------------------------------------------ |
-| ![Mobile](./images/site-preview-mobile_375x812.png) | ![Desktop](./images/site-preview-desktop_1440x960.png) |
+| _Mobile Preview (375x812)_                               | _Desktop Preview (1440x960)_                                |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| ![Mobile](./images/site-preview-mobile_375x812.png)      | ![Desktop](./images/site-preview-desktop_1440x960.png)      |
+| ![Mobile](./images/site-preview-mobile-dark_375x812.png) | ![Desktop](./images/site-preview-desktop-dark_1440x960.png) |
 
 A multi-page fictional restaurant website built with semantic HTML5 and custom CSS. This project simulates a real-world business layout with homepage, about, contact, and hours pages, showcasing layout techniques, inter-page navigation, and accessible form handling.
 

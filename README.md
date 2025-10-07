@@ -1,4 +1,4 @@
-# 💻 The Little Taco Shop Website v2
+# The Little Taco Shop Website v2
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.the-little-taco-shop-website-v2&left_text=repo%20views)
 
-## ℹ️ Multi-Page Taco Shop Demo Website
+## Multi-Page Taco Shop Demo Website
 
 | _Mobile Preview (375x812)_                               | _Desktop Preview (1440x960)_                                |
 | -------------------------------------------------------- | ----------------------------------------------------------- |
@@ -31,7 +31,7 @@ A multi-page fictional restaurant website built with semantic HTML5 and custom C
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project contains a 4-page HTML site styled with custom CSS, including a homepage with a dynamic taco menu, an about page with trivia, a contact form, and a store hours section. It demonstrates practical use of tables, forms, responsive design, reusable classes, and minimal JavaScript for dynamic year insertion.
 
@@ -39,7 +39,7 @@ This project was created as part of a self-directed HTML & CSS learning track, n
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic multi-page layout (Home, Menu, About, Contact, Hours)
 - Store hours with `<dl>` structure
@@ -54,7 +54,7 @@ This project was created as part of a self-directed HTML & CSS learning track, n
 
 ---
 
-## 📚 Included Pages
+## Included Pages
 
 - index.html – Homepage with taco menu
 - about.html – About the shop and taco trivia
@@ -63,7 +63,7 @@ This project was created as part of a self-directed HTML & CSS learning track, n
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to create a multi-page static site and link them seamlessly
 - Designing a responsive layout using CSS Grid and Flexbox
@@ -76,7 +76,7 @@ This project was created as part of a self-directed HTML & CSS learning track, n
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -87,23 +87,23 @@ This project was created as part of a self-directed HTML & CSS learning track, n
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://the-little-taco-shop-v2-jiro.netlify.app/)
+Or you can check out the **[live website here](https://the-little-taco-shop-v2-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
